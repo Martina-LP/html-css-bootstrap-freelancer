@@ -4,6 +4,38 @@
   padding: 0;
 }
 /* Header */
-header {
+header, footer {
   background-color: #2C3E50;
+}
+/* Main */
+.jumbotron, .about {
+  background-color: #1ABC9C;
+}
+
+.link {
+  background-color: #3A546D;
+}
+
+.green {
+  color: #1ABC9C;
+}
+
+.bar {
+  width: 120px;
+  height: 3px;
+  border-radius: 5px;
+}
+
+.img_1 {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+}
+
+.img_2 {
+  background-color: blue;
+  width: 300px;
+  height: 200px;
+  border-radius: 5px;
 }
