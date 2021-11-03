@@ -3,12 +3,12 @@
   margin: 0;
   padding: 0;
 }
-/* Header */
+/* Header and footer */
 header, footer {
   background-color: #2C3E50;
 }
 /* Main */
-.jumbotron, .about {
+.jumbotron, .about, button {
   background-color: #1ABC9C;
 }
 
@@ -21,7 +21,7 @@ header, footer {
 }
 
 .bar {
-  width: 120px;
+  width: 140px;
   height: 3px;
   border-radius: 20px;
 }
